@@ -1,0 +1,15 @@
+{
+  "mac": [
+    {
+      "general": [
+        { "shortcut": "⇧⌘P, F1", "name": "Show Command Palette" },
+        { "shortcut": "⌘P", "name": "Quick Open, Go to File…" },
+        { "shortcut": "⇧⌘N", "name": "New window/instance" },
+        { "shortcut": "⌘W", "name": "Close window/instance" },
+        { "shortcut": "⌘", "name": "User Settings" },
+        { "shortcut": "⌘K ⌘S", "name": "Keyboard Shortcuts" }
+      ]
+    }
+  ],
+  "windows": {}
+}
