@@ -5,7 +5,27 @@
     { "shortcut": "⇧⌘N", "name": "New window/instance" },
     { "shortcut": "⌘W", "name": "Close window/instance" },
     { "shortcut": "⌘", "name": "User Settings" },
-    { "shortcut": "⌘K ⌘S", "name": "Keyboard Shortcuts" }
+    { "shortcut": "⌘K ⌘S", "name": "Keyboard Shortcuts" },
+    { "shortcut": "⌘X", "name": "Cut line (empty selection)" },
+    { "shortcut": "⌘C", "name": "Copy line (empty selection)" },
+    { "shortcut": "⌥↓ / ⌥↑", "name": "Move line down/up" },
+    { "shortcut": "⇧⌥↓ / ⇧⌥↑", "name": "Copy line down/up" },
+    { "shortcut": "⇧⌘K", "name": "Delete line" },
+    { "shortcut": "⌘Enter / ⇧⌘Enter", "name": "Insert line below/above" },
+    { "shortcut": "⇧⌘(\\)", "name": "Jump to matching bracket" },
+    { "shortcut": "⌘] / ⌘[", "name": "Indent/outdent line" },
+    { "shortcut": "Home / End", "name": "Go to beginning/end of line" },
+    { "shortcut": "⌘↑ / ⌘↓", "name": "Go to beginning/end of file" },
+    { "shortcut": "⌃PgUp / ⌃PgDn", "name": "Scroll line up/down" },
+    { "shortcut": "⌘PgUp /⌘PgDn", "name": "Scroll page up/down" },
+    { "shortcut": "⌥⌘[ / ⌥⌘]", "name": "Fold/unfold region" },
+    { "shortcut": "⌘K ⌘[ / ⌘K ⌘]", "name": "Fold/unfold all subregions" },
+    { "shortcut": "⌘K ⌘0 / ⌘K ⌘J", "name": "Fold/unfold all regions" },
+    { "shortcut": "⌘K ⌘C", "name": "Add line comment" },
+    { "shortcut": "⌘K ⌘U", "name": "Remove line comment" },
+    { "shortcut": "⌘/", "name": "Toggle line comment" },
+    { "shortcut": "⇧⌥A", "name": "Toggle block comment" },
+    { "shortcut": "⌥Z", "name": "Toggle word wrap" }
   ],
   "windows": []
 }
