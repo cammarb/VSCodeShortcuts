@@ -38,7 +38,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <main className="max-w-3xl flex flex-col mx-auto my-4">
+      <main className="max-w-3xl flex flex-col mx-auto my-4 px-4">
         <div className="w-full p-4">
           <Input
             contentAfter={
